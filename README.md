@@ -30,25 +30,24 @@ Detailed metrics and evaluation visuals are available in the `results/` folder.
 ---
 
 ## 📂 Repository Structure
-├── Documents/             # Project diagrams and designs
-│ ├── Data Flow Diagram.png
-│ ├── GA Flowchart.png
-│ ├── Model Architecture.png
-│ └── Readme
-│
-├── results/               # Output metrics and visualizations
-│ ├── Metrics/
-│ └── Results metrics graph.png
-│
-├── DenseNet121.py
-├── DenseNet121 + GeneticAlgo.py
-├── EfficientNetB3.py
-├── ResNet50.py
-├── VGG16 + GeneticAlgo.py
-├── VGGGA.py
-│
-├── LICENSE
-├── README.md
+- **Documents/** – Project diagrams and designs  
+  - Data Flow Diagram.png  
+  - GA Flowchart.png  
+  - Model Architecture.png  
+  - Readme  
+
+- **results/** – Output metrics and visualizations  
+  - Metrics/  
+  - Results metrics graph.png  
+
+- DenseNet121.py  
+- DenseNet121 + GeneticAlgo.py  
+- EfficientNetB3.py  
+- ResNet50.py  
+- VGG16 + GeneticAlgo.py  
+- VGGGA.py  
+- LICENSE  
+- README.md  
 
 
 
