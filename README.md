@@ -30,13 +30,13 @@ Detailed metrics and evaluation visuals are available in the `results/` folder.
 ---
 
 ## 📂 Repository Structure
-├── Documents/ # Project diagrams and designs
+├── Documents/             # Project diagrams and designs
 │ ├── Data Flow Diagram.png
 │ ├── GA Flowchart.png
 │ ├── Model Architecture.png
 │ └── Readme
 │
-├── results/ # Output metrics and visualizations
+├── results/               # Output metrics and visualizations
 │ ├── Metrics/
 │ └── Results metrics graph.png
 │
@@ -90,11 +90,7 @@ Our work has been accepted at a reputed international conference:
 
 ## 🚀 How to Run
 
-# Install dependencies
-# Run a model (example: DenseNet + GA)
-
-## 📜 License
-This project is licensed under the MIT License.
-
+Install dependencies
+Run a model (example: DenseNet + GA)
 
 ### 📫 Feel free to fork, contribute, or reach out for collaborations!
